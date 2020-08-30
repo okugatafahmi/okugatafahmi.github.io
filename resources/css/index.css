@@ -49,6 +49,7 @@ section{
 .right-element{
     width: 600px;
     margin-left: auto;
+    width: 100%;
 }
 
 button{
